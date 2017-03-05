@@ -4,9 +4,9 @@ This file record my learning path in machine learning .
 Here is the content:
 
 huangleknn:
-This is my knn code to distinguish the written data of 28*28 images from MINST data set.
-MNIST.mat is the28*28*60000 matrix set.
-And huangleknn.m is the matlab code.
+This is my knn code to distinguish the written data of `28\*28` images from *MINST* image data set.
+MNIST.mat has `28\*28\*60000` train_images, `1\*60000` train_labels,`28\*28\*10000`test_images and `1\*10000`test_labels.
+And *huangleknn.m* is the matlab code.
 
 Here is the function of the code:
 
